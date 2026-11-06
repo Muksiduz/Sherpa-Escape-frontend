@@ -1,0 +1,36 @@
+export const blogData = [
+  {
+    id: 'essential-gear-himalayan-trek',
+    title: 'Top 10 Essential Gear Items for High-Altitude Himalayan Treks',
+    author: 'Tenzing Norgay',
+    date: '2026-03-15',
+    category: 'Travel Tips',
+    readTime: '6 min read',
+    image: 'https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?auto=format&fit=crop&w=800&q=80',
+    summary: 'Everything you need to pack for comfort, safety, and performance above 4,000 meters.',
+    content: 'Packing for a high-altitude expedition requires meticulous planning. Layering is key: start with a merino wool base layer, followed by an insulating fleece or down jacket, and top it with a weatherproof outer shell. Reliable footwear broken in weeks before departure is vital, alongside certified UV protection sunglasses and trekking poles.',
+  },
+  {
+    id: 'leave-no-trace-guide',
+    title: 'The Modern Explorer’s Guide to Leave No Trace Travel',
+    author: 'Maya Lin',
+    date: '2026-02-28',
+    category: 'Eco Tourism',
+    readTime: '4 min read',
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    summary: 'How to preserve the fragile beauty of wilderness destinations for future generations.',
+    content: 'Sustainable travel is no longer optional—it is a responsibility. Respect wildlife by keeping distance, use biodegradable hygiene products, stay strictly on designated footpaths, and leave natural artifacts untouched.',
+  },
+  {
+    id: 'best-time-swiss-alps',
+    title: 'When is the Best Time to Visit the Swiss Alps for Trekking?',
+    author: 'Luca Meier',
+    date: '2026-01-18',
+    category: 'Destinations',
+    readTime: '5 min read',
+    image: 'https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=800&q=80',
+    summary: 'A seasonal breakdown of alpine conditions, weather windows, and wildflower blooms.',
+    content: 'While winter caters to skiers, July through September offers ideal alpine hiking conditions when snow melts off high mountain passes and wildflower meadows are in full bloom.',
+  },
+];
+
